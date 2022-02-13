@@ -16,9 +16,12 @@
   In terminal enter npm run seed to enter information into the database. 
   Then enter npm start to start up the server.js.
   ## GitHub
-  GitHub Username: jacobluedke
 
-  Link to GitHub: [https://github.com/jacobluedke](https://github.com/jacobluedke)
+  Link to GitHub: [jacobluedke](https://github.com/jacobluedke)
   ## Walkthrough
 
-  Link to video walkthrough: []()
+  Link to categories walkthrough: [https://watch.screencastify.com/v/RUwCKZvaU2I1CpYcy7Hf](https://watch.screencastify.com/v/RUwCKZvaU2I1CpYcy7Hf)
+
+  Link to products walkthrough: [https://watch.screencastify.com/v/0XHGKljEIeEx2lZdWuOq](https://watch.screencastify.com/v/0XHGKljEIeEx2lZdWuOq)
+
+  Link to tags walkthrough: [https://watch.screencastify.com/v/bgTreSOaTFsF1A8bV2ZV](https://watch.screencastify.com/v/bgTreSOaTFsF1A8bV2ZV)
